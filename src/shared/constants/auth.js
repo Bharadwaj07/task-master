@@ -1,0 +1,6 @@
+module.exports = {
+  SALT_ROUNDS: 12,
+  JWT_EXPIRES_IN: '7d',
+  REFRESH_TOKEN_EXPIRES_IN: '30d',
+  PASSWORD_MIN_LENGTH: 8
+};
